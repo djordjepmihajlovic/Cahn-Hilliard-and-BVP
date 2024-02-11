@@ -1,4 +1,3 @@
-Checkpoint 3 for 10pt Modelling and Visualisation school of physics course @ the University of Edinburgh.
 # CH_BVP
 
 READ ME
